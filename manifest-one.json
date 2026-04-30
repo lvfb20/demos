@@ -1,0 +1,24 @@
+{
+  "packs": [
+    {
+      "identifier": "com.worldofneeds.wrapped.dog-2026",
+      "name": "Dog Wrapped 2026",
+      "publisher": "WorldOfNeeds",
+      "tray_image_url": "https://drive.google.com/uc?export=download&id=1AJ__9rZScZzWs3Y0mW-CUsQOfrKGB8gi",
+      "stickers": [
+        {
+          "image_url": "https://drive.google.com/uc?export=download&id=1DS1KM1eAOLcTEu_FoKR3RfDvCZTLhzcV",
+          "emojis": ["🐶", "😊"]
+        },
+        {
+          "image_url": "",
+          "emojis": ["🐶", "🎉"]
+        },
+        {
+          "image_url": "",
+          "emojis": ["🐶", "😎"]
+        }
+      ]
+    }
+  ]
+}
