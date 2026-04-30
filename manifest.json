@@ -11,11 +11,11 @@
           "emojis": ["🐶", "😊"]
         },
         {
-          "image_url": "",
+          "image_url": "dummy.webp",
           "emojis": ["🐶", "🎉"]
         },
         {
-          "image_url": "",
+          "image_url": "dummy.webp",
           "emojis": ["🐶", "😎"]
         }
       ]
