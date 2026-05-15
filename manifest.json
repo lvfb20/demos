@@ -7,15 +7,15 @@
       "tray_image_url": "https://github.com/lvfb20/demos/blob/main/images/tray.png",
       "stickers": [
         {
-          "image_url": "https://github.com/lvfb20/demos/blob/main/images/sticker_01.webp",
+          "image_url": "https://github.com/lvfb20/demos/blob/main/images/sticker_03.webp",
           "emojis": ["🐶", "😊"]
         },
         {
-          "image_url": "https://github.com/lvfb20/demos/blob/main/images/sticker_01.webp",
+          "image_url": "https://github.com/lvfb20/demos/blob/main/images/sticker_03.webp",
           "emojis": ["🐶", "🎉"]
         },
         {
-          "image_url": "https://github.com/lvfb20/demos/blob/main/images/sticker_01.webp",
+          "image_url": "https://github.com/lvfb20/demos/blob/main/images/sticker_03.webp",
           "emojis": ["🐶", "😎"]
         }
       ]
