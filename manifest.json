@@ -4,18 +4,18 @@
       "identifier": "com.worldofneeds.wrapped.dog-2026",
       "name": "Dog Wrapped 2026",
       "publisher": "WorldOfNeeds",
-      "tray_image_url": "https://drive.google.com/file/d/1IqEYtJIWpayQk6vXRvPWAZhq7l0wJz3g/view?usp=sharing",
+      "tray_image_url": "https://github.com/lvfb20/demos/blob/main/images/tray.png",
       "stickers": [
         {
-          "image_url": "https://drive.google.com/file/d/13TRnyG2eEEqDAejiT4iQITQxab436CY5/view?usp=sharing",
+          "image_url": "https://github.com/lvfb20/demos/blob/main/images/sticker_01.webp",
           "emojis": ["🐶", "😊"]
         },
         {
-          "image_url": "https://drive.google.com/file/d/13TRnyG2eEEqDAejiT4iQITQxab436CY5/view?usp=sharing",
+          "image_url": "https://github.com/lvfb20/demos/blob/main/images/sticker_01.webp",
           "emojis": ["🐶", "🎉"]
         },
         {
-          "image_url": "https://drive.google.com/file/d/13TRnyG2eEEqDAejiT4iQITQxab436CY5/view?usp=sharing",
+          "image_url": "https://github.com/lvfb20/demos/blob/main/images/sticker_01.webp",
           "emojis": ["🐶", "😎"]
         }
       ]
